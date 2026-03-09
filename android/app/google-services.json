@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "672562222317",
+    "project_id": "tutoring-apps",
+    "storage_bucket": "tutoring-apps.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672562222317:android:204046d9a0410e996f28e4",
+        "android_client_info": {
+          "package_name": "com.example.turtoring_apps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqXJslzYVohFNzEvhg8HFr2pBEnZ5cAeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
